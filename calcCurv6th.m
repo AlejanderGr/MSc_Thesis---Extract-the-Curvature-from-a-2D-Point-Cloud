@@ -11,10 +11,10 @@
 %dsError: the % error that we allow
 
 %masDist: the maximum Distance that we allow the next estimated point to
-%have. You can diable it by setting it to inf
+%have. You can disable it by setting it to inf
 
 %maxPixelEfthia: the maximum pixel that we allow to have the same coordinate
-%Y without beiing considered as a vertical line
+%Y without being considered as a vertical line
 
 %maxRegion: the maximum regions that we allow to exist (in pixel number)
 
